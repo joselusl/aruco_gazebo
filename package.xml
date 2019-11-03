@@ -1,0 +1,12 @@
+<package format="2">
+  <name>aruco_gazebo</name>
+  <version>1.2.5</version>
+  <description>
+    aruco gazebo
+  </description>
+
+  <maintainer email="akiakira.ta.bashi.yookan@gmail.com">Yooookan</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>

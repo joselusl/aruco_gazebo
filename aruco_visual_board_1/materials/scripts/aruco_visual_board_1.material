@@ -1,0 +1,13 @@
+material ArucoVisualBoard1/Marker
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture aruco_visual_board_1.jpg
+			}
+		}
+	}
+}
